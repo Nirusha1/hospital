@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/receptionist.jpg</file>
+        <file>img/pharmacy.jpg</file>
+        <file>img/beds.png</file>
+        <file>img/departments.png</file>
+        <file>img/doctor schedule .png</file>
+        <file>img/patients history.png</file>
+        <file>img/appointment.png</file>
+        <file>img/bill.png</file>
+        <file>img/discharge slip.png</file>
+        <file>img/birth.png</file>
+        <file>img/death.png</file>
+        <file>img/bg31.jpg</file>
+        <file>img/PATIENTS HISTORY.jpg</file>
+        <file>img/departments.jpg</file>
+        <file>img/doctor schedule.jpg</file>
+        <file>img/beds.jpg</file>
+        <file>img/departments/painmangement.jpg</file>
+        <file>img/departments/dental.png</file>
+        <file>img/departments/gastro.jpg</file>
+        <file>img/departments/General surgery.jpg</file>
+        <file>img/departments/nephrology.png</file>
+        <file>img/departments/neurology.jpg</file>
+        <file>img/departments/oncology.jpg</file>
+        <file>img/departments/opthalmology.jpg</file>
+        <file>img/departments/plastic surgery.jpg</file>
+        <file>img/departments/Psychiatry.jpg</file>
+        <file>img/departments/Pulmonology.jpg</file>
+        <file>img/departments/Radiology-blog.jpg</file>
+        <file>img/departments/dental2.jpg</file>
+    </qresource>
+    <qresource prefix="/resc">
+        <file>img/Doctors/Dr. NInadini Shrestha.jpg</file>
+    </qresource>
+</RCC>
